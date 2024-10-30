@@ -1,0 +1,14 @@
+.
+├── backup
+│   └── wynik.txt
+├── Kolokwium
+│   └── wynik.txt
+├── Kopia_wynik
+├── liczba_linii.txt
+├── README.md
+├── sciezka.txt
+├── struktura_katalogow.txt
+├── wyniki_kolokwium.tar.gz
+└── zadanie
+
+3 directories, 9 files
